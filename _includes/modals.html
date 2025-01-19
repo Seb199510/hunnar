@@ -30,6 +30,13 @@
                                     </strong>
                                 </li>
                             </ul>
+                            <!-- Add the audio player if the audio field is present -->
+                            {% if post.audio %}
+                            <audio controls>
+                                <source src="{{ post.audio }}" type="audio/mpeg">
+                                Your browser does not support the audio element.
+                            </audio>
+                            {% endif %}
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
