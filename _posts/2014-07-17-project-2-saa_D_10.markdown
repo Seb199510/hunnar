@@ -1,0 +1,16 @@
+---
+title: Så D 10
+subtitle: King Theodon
+layout: default
+modal-id: 2
+date: 2022-03-11
+img: escape.png
+thumbnail: escape-thumbnail.png
+alt: image-alt
+project-date: Januar 2024
+client: Start Bootstrap
+category: Music
+description: https://drive.google.com/file/d/1ws-ZBT1Ygblvj9FZUM00uORg8i3yVUoG/view?usp=sharing
+external_url: https://drive.google.com/file/d/1ws-ZBT1Ygblvj9FZUM00uORg8i3yVUoG/view?usp=sharing
+
+---
