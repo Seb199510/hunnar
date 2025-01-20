@@ -4,8 +4,8 @@ subtitle: King Theodon
 layout: default
 modal-id: 2
 date: 2022-03-11
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: Saa_D_10.png
+thumbnail: Saa_D_10.png
 alt: image-alt
 project-date: Januar 2024
 client: Start Bootstrap
