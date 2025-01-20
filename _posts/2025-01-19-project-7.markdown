@@ -1,6 +1,6 @@
 ---
 title: Brummer rundt
-subtitle: Brumbraz
+subtitle: Brumbrazz
 layout: default
 modal-id: 7
 date: 2025-01-19
