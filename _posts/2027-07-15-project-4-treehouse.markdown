@@ -1,15 +1,15 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Mons
+subtitle: DJ Klaes
 layout: default
 modal-id: 4
-date: 2028-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+date: 2019-03-20
+img: mons-dj-klaes.png
+thumbnail: mons-dj-klaes.png
 alt: image-alt
-project-date: April 2014
+project-date: March 2019
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+category: Music
+description: https://soundcloud.com/dj-klaes/mons?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+external_url: https://soundcloud.com/dj-klaes/mons?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 ---
