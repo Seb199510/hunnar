@@ -4,21 +4,21 @@ baseurl: /hunnar/
 # Site settings
 title: Club Hunnar
 email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Loge for særligt udvaglte individer med passion og talent for at skabe noget nyt og unikt."
 future: true 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: DJ Klaes
+  pic: DJKlaes.jpg
+  position: Lead DJ
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    #- title: twitter
+    #  url: #
+    #- title: facebook
+    #  url: #
+    - title: soundcloud
+      url: https://soundcloud.com/dj-klaes
 
 - name: Larry Parker
   pic: 2
