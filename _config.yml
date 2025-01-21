@@ -10,7 +10,7 @@ future: true
 # Team names, titles and social links
 people:
 - name: DJ Klaes
-  pic: DJKlaes.jpg
+  pic: 4
   position: Lead DJ
   social:
     #- title: twitter
