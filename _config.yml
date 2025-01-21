@@ -9,7 +9,7 @@ future: true
 
 # Team names, titles and social links
 people:
-- name: DJ Klaes
+- name: DJ Klaes / Mr. Århus
   pic: 4
   position: Lead DJ
   social:
@@ -21,26 +21,23 @@ people:
       url: https://soundcloud.com/dj-klaes
 
 - name: Brumbrazz
-  pic: 2
+  pic: 6
   position: Lead Marketer
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://www.bogvaegten.dk/brumbazz/
     - title: linkedin
-      url: #
+      url: https://www.jammerbugt-bibliotek.dk/work/work-of:870970-basis:48292828?type=bog
 
 - name: King Theodon
-  pic: 3
+  pic: 7
   position: Lead Developer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: instagram
+      url: https://lotr.fandom.com/wiki/Th%C3%A9oden
+    - title: reddit
+      url: https://www.reddit.com/r/lordoftherings/comments/1eiy1i2/theoden_is_just_a_terrible_king/
+
 
 - name: JJ The Great
   pic: 5
@@ -50,8 +47,14 @@ people:
       url: https://www.youtube.com/channel/UCDZRhDottMytwxcYsoHVLzQ
     - title: website
       url: https://jensjulius.com/
-    - title: tiktok
+    - title: TikTok
       url: https://www.tiktok.com/@jensjulius_tejlgaard
+
+- name: Mr. hunnar
+  pic: 8
+  position: Lead 
+  social:
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -59,7 +62,7 @@ social:
     url: https://www.youtube.com/channel/UCDZRhDottMytwxcYsoHVLzQ
   - title: facebook
     url: https://www.facebook.com/dj.klaus.2024
-    
+
 
 
 
