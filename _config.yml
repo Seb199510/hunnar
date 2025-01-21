@@ -31,7 +31,7 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: King Theodon
   pic: 3
   position: Lead Developer
   social:
@@ -42,18 +42,26 @@ people:
     - title: google-plus
       url: #
 
+- name: JJ The Great
+  pic: 5
+  position: Lead Producer
+  social:
+    - title: youtube
+      url: https://www.youtube.com/channel/UCDZRhDottMytwxcYsoHVLzQ
+    - title: website
+      url: https://jensjulius.com/
+    - title: tiktok
+      url: https://www.tiktok.com/@jensjulius_tejlgaard
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+  - title: youtube
+    url: https://www.youtube.com/channel/UCDZRhDottMytwxcYsoHVLzQ
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/dj.klaus.2024
+    
+
+
 
 # Postal address (add as many lines as necessary)
 address:
