@@ -61,11 +61,11 @@ h6 {
     margin: 0 auto;
 }
 
-.bg-light-gray {
+.bg-first-color {
     background-color: #122620;
 }
 
-.bg-darkest-gray {
+.bg-second-color {
     background-color: #d6ad60;
 }
 
