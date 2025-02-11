@@ -11,7 +11,7 @@ future: true
 people:
 - name: DJ Klaes / Mr. Århus
   pic: 4
-  position: Lead DJ
+  position: Chief of planning and engineering and DJ in sparetime - Vocal All around  
   social:
     #- title: twitter
     #  url: #
@@ -22,7 +22,7 @@ people:
 
 - name: Brumbrazz
   pic: 6
-  position: Lead Marketer
+  position: Chef for Strategi, marketing og shippping - Vocal bass 
   social:
     - title: twitter
       url: https://www.bogvaegten.dk/brumbazz/
@@ -31,7 +31,7 @@ people:
 
 - name: King Theodon
   pic: 7
-  position: Lead Developer
+  position: Head of data - Vocal tenor 
   social:
     - title: instagram
       url: https://lotr.fandom.com/wiki/Th%C3%A9oden
@@ -41,7 +41,7 @@ people:
 
 - name: JJ The Great
   pic: 5
-  position: Lead Producer
+  position: Lead Producer - Vocal baritone
   social:
     - title: youtube
       url: https://www.youtube.com/channel/UCDZRhDottMytwxcYsoHVLzQ
@@ -52,7 +52,7 @@ people:
 
 - name: Mr. hunnar
   pic: 9
-  position: Lead 
+  position: Founder and CEO 
   social:
     - title: youtube
       url: https://www.youtube.com/channel/UCDZRhDottMytwxcYsoHVLzQ
