@@ -550,6 +550,13 @@ section h3.section-subheading {
     margin-bottom: 0;
 }
 
+.timeline>li .timeline-image img {
+    width: 100%; /* Make the image take up the full width of its container */
+    height: 100%; /* Make the image take up the full height of its container */
+    object-fit: cover; /* Ensure the image covers the entire circular area */
+    border-radius: 50%; /* Apply rounding directly to the image */
+}
+
 @media(min-width:768px) {
     .timeline:before {
         left: 50%;
