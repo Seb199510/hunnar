@@ -38,7 +38,7 @@
                 </div>
             </div>
             <div class="row">
-                {% assign sorted_posts = site.posts | sort: 'date' %}
+                {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
                 {% for post in sorted_posts %}
                     <div class="col-md-4 col-sm-6 portfolio-item">
                         <a href="{{ post.external_url }}" class="portfolio-link" target="_blank">
