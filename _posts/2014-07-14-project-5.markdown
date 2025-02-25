@@ -7,7 +7,7 @@ date: 2023-10-20
 img: kat-til-at-gøg.png
 thumbnail: kat-til-at-gøg.png
 alt: image-alt
-project-date: November 2023
+project-date: Oktober 2023
 client: Start Bootstrap
 category: Music
 description: https://soundcloud.com/relaxing-life-music/kat-til-at-gog?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
